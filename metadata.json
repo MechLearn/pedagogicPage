@@ -1,0 +1,8 @@
+{
+  "name": "Modelo Pedagógico y Sistema de Evaluación: Ciencias Naturales",
+  "description": "Plataforma interactiva para explorar el modelo pedagógico de Diseño Inverso y Aprendizaje por Refracción, las 5 clases de competencia y el simulador de calificaciones en Ciencias Naturales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
